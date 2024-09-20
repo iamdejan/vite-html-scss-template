@@ -15,3 +15,7 @@ Install `pnpm` first before running the project.
 ### Production
 
 `pnpm run preview`
+
+# Credits
+
+All credits goes to Jhordy who created an excellent post called [Sass & Vite: A Guide for Your Next Workflow](https://blog.jhordyess.com/sass-vite-a-guide-for-your-next-workflow).
