@@ -8,13 +8,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@eslint/css": "^0.6.0",
-    "@eslint/js": "^9.23.0",
-    "eslint": "^9.23.0",
-    "eslint-config-prettier": "^10.1.1",
-    "prettier": "3.5.3",
-    "sass": "^1.86.0",
-    "typescript": "^5.8.2",
-    "vite": "^6.2.4"
+    "@eslint/css": "^1.1.0",
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "3.8.2",
+    "sass": "^1.99.0",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.8"
   }
 }
